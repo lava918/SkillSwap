@@ -1,16 +1,36 @@
-# Skillswap - Community Skill Exchange Platform
+# SkillSwap 🌐
 
-A modern open-source Next.js platform where users can exchange skills through smart matching and secure interactions.
+![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-blue?logo=tailwind-css)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+
+A modern open-source platform built with **Next.js**, where users can exchange and learn skills from one another through smart matching and friendly interactions.
+
+---
 
 ## 🚀 Features
-- Next.js 14 + Tailwind CSS
-- Responsive and accessible UI
-- User skill profiles & matching system
-- Warm color palette and clean layout
+- ⚡ Built with **Next.js 14** + **Tailwind CSS**
+- 🎨 Warm, modern, and responsive UI
+- 🔒 Secure authentication and skill exchange system
+- 🌍 Community-driven open-source project
+
+---
+
+## 🧠 Tech Stack
+- **Frontend:** Next.js 14, React, Tailwind CSS  
+- **Backend (Future Integration):** Django REST API  
+- **Authentication:** JWT Auth  
+- **Database:** PostgreSQL  
+- **Deployment:** Vercel  
+
+---
 
 ## 🛠️ Getting Started
+
+Follow these steps to set up the project locally 👇
+
+### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/lava918/SkillSwap.git
-cd SkillSwap
-npm install
-npm run dev
