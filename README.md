@@ -1,5 +1,4 @@
 # SkillSwap 🌐
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/85aba6ca-0491-43c7-bc25-bf620aaf02bd" />
 
 
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)
@@ -146,4 +145,5 @@ Made with ❤️ by [Lavanya Sharma](https://github.com/lava918)
    git commit -m "Add complete README with badges and contribution guide"
    git push
 ````
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/85aba6ca-0491-43c7-bc25-bf620aaf02bd" />
 
