@@ -10,7 +10,7 @@ A modern open-source Next.js platform where users can exchange skills through sm
 
 ## 🛠️ Getting Started
 ```bash
-git clone https://github.com/yourusername/community-skill-exchange.git
+git clone https://github.com/lava918/SkillSwap.git
 cd community-skill-exchange
 npm install
 npm run dev
