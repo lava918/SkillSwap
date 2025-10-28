@@ -1,0 +1,115 @@
+export const mockUsers = [
+  {
+    id: 1,
+    name: "Shreya Sharma",
+    avatar: "/woman-designer-avatar.png",
+    bio: "Creative designer looking to learn web development.",
+    location: "Bengaluru, KA",
+    skillsOffered: ["UI Design", "Figma", "Branding"],
+    skillsWanted: ["React.js", "Next.js", "TypeScript"],
+    matches: 12,
+    exchanges: 3,
+    followers: 245,
+  },
+  {
+    id: 2,
+    name: "Kshitij Gautam",
+    avatar: "/man-developer-avatar.png",
+    bio: "Full-stack developer passionate about teaching.",
+    location: "Pune, MH",
+    skillsOffered: ["React", "Node.js", "Python"],
+    skillsWanted: ["UI/UX Design", "Product Strategy"],
+    matches: 18,
+    exchanges: 7,
+    followers: 512,
+  },
+  {
+    id: 3,
+    name: "Deeksha Malhotra",
+    avatar: "/woman-musician-avatar.jpg",
+    bio: "Music teacher and content creator.",
+    location: "Gurugram, HR",
+    skillsOffered: ["Music Production", "Singing", "Guitar"],
+    skillsWanted: ["Video Editing", "Social Media Marketing"],
+    matches: 8,
+    exchanges: 2,
+    followers: 189,
+  },
+  {
+    id: 4,
+    name: "Himan Verma",
+    avatar: "/man-writer-avatar.jpg",
+    bio: "Technical writer and copywriter.",
+    location: "Noida, UP",
+    skillsOffered: ["Technical Writing", "Copywriting", "Editing"],
+    skillsWanted: ["Graphic Design", "Web Development"],
+    matches: 14,
+    exchanges: 5,
+    followers: 378,
+  },
+]
+
+export const mockChats = [
+  {
+    id: 1,
+    userId: 1,
+    userName: "Megha Yadav",
+    avatar: "/woman-designer-avatar.png",
+    lastMessage: "That sounds great! When can we start?",
+    timestamp: "2 hours ago",
+    unread: true,
+    messages: [
+      { id: 1, sender: "other", text: "Hi! I'd love to learn UI design from you.", timestamp: "10:30 AM" },
+      { id: 2, sender: "user", text: "That's awesome! I can teach you Figma basics.", timestamp: "10:35 AM" },
+      { id: 3, sender: "other", text: "Perfect! In exchange, I can help with React.", timestamp: "10:40 AM" },
+      { id: 4, sender: "user", text: "That sounds great! When can we start?", timestamp: "10:45 AM" },
+    ],
+  },
+  {
+    id: 2,
+    userId: 2,
+    userName: "Kshitij Gautam",
+    avatar: "/man-developer-avatar.png",
+    lastMessage: "Let's schedule our first session",
+    timestamp: "1 day ago",
+    unread: false,
+    messages: [
+      { id: 1, sender: "other", text: "Hey! Interested in learning Node.js?", timestamp: "Yesterday" },
+      { id: 2, sender: "user", text: "Yes! I can teach you design in return.", timestamp: "Yesterday" },
+      { id: 3, sender: "other", text: "Let's schedule our first session", timestamp: "Yesterday" },
+    ],
+  },
+]
+
+export const skillCategories = [
+  { name: "Programming", icon: "Code", color: "from-blue-400 to-blue-600" },
+  { name: "Design", icon: "Palette", color: "from-pink-400 to-pink-600" },
+  { name: "Music", icon: "Music", color: "from-purple-400 to-purple-600" },
+  { name: "Writing", icon: "BookOpen", color: "from-amber-400 to-amber-600" },
+  { name: "Business", icon: "Briefcase", color: "from-green-400 to-green-600" },
+  { name: "Languages", icon: "Globe", color: "from-cyan-400 to-cyan-600" },
+]
+
+export const testimonials = [
+  {
+    id: 1,
+    name: "Anita Kapoor",
+    role: "Graphic Designer",
+    quote: "I learned React in just 3 weeks by trading design skills. This platform is amazing!",
+    avatar: "/woman-testimonial-avatar.jpg",
+  },
+  {
+    id: 2,
+    name: "Siddhant Sharma",
+    role: "Software Engineer",
+    quote: "Finally found someone to teach me UI/UX design. The skill exchange model is brilliant.",
+    avatar: "/man-testimonial-avatar.jpg",
+  },
+  {
+    id: 3,
+    name: "Unnati Gogia",
+    role: "Content Creator",
+    quote: "Met incredible people and learned so much. The community here is so supportive!",
+    avatar: "/woman-testimonial-avatar.jpg",
+  },
+]
