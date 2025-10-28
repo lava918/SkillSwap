@@ -1,4 +1,4 @@
-# Community Skill Exchange 🌐
+# Skillswap - Community Skill Exchange Platform
 
 A modern open-source Next.js platform where users can exchange skills through smart matching and secure interactions.
 
