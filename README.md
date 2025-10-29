@@ -12,14 +12,14 @@ A modern open-source platform built with **Next.js**, where users can exchange a
 ---
 
 ## Features
-- ⚡ Built with **Next.js 14** + **Tailwind CSS**
-- 🎨 Warm, modern, and responsive UI
-- 🔒 Secure authentication and skill exchange system
-- 🌍 Community-driven open-source project
+- Built with **Next.js 14** + **Tailwind CSS**
+- Warm, modern, and responsive UI
+- Secure authentication and skill exchange system
+- Community-driven open-source project
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 - **Frontend:** Next.js 14, React, Tailwind CSS  
 - **Backend (Future Integration):** Django REST API  
 - **Authentication:** JWT Auth  
@@ -28,7 +28,7 @@ A modern open-source platform built with **Next.js**, where users can exchange a
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 Follow these steps to set up the project locally 👇
 
@@ -59,7 +59,7 @@ Now open **[http://localhost:3000](http://localhost:3000)** in your browser to s
 
 ---
 
-## 🤝 How to Contribute
+## How to Contribute
 
 We’d love your help to make **SkillSwap** even better! 💡
 Follow these steps to contribute:
@@ -103,7 +103,7 @@ We’ll review it soon! 🙌
 
 ---
 
-## 🧩 Project Structure
+## Project Structure
 
 ```
 SkillSwap/
@@ -121,13 +121,13 @@ SkillSwap/
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 💡 Inspiration
+## Inspiration
 
 **SkillSwap** was built to encourage people to learn through collaboration — sharing knowledge, one skill at a time. 🌱
 
