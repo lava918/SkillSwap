@@ -11,7 +11,7 @@ A modern open-source platform built with **Next.js**, where users can exchange a
 
 ---
 
-## 🚀 Features
+## Features
 - ⚡ Built with **Next.js 14** + **Tailwind CSS**
 - 🎨 Warm, modern, and responsive UI
 - 🔒 Secure authentication and skill exchange system
