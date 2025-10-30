@@ -358,13 +358,13 @@ export default function HomePage() {
           <div className="border-t border-border pt-8 flex flex-col sm:flex-row justify-between items-center gap-4 text-xs sm:text-sm">
             <p className="text-muted-foreground">© 2025 SkillSwap. All rights reserved.</p>
             <div className="flex gap-4 sm:gap-6">
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
-                Twitter
+              <a href="https://lavanya-sharma0.vercel.app/" className="text-muted-foreground hover:text-primary transition-colors">
+                Developer
               </a>
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="https://linkedin.com/in/lavanya-sharma-329b41246" className="text-muted-foreground hover:text-primary transition-colors">
                 LinkedIn
               </a>
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="https://github.com/lava918/SkillSwap.git" className="text-muted-foreground hover:text-primary transition-colors">
                 GitHub
               </a>
             </div>

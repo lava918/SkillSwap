@@ -14,7 +14,7 @@ export function Navbar() {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2 font-bold text-xl text-primary">
-            <div className="w-8 h-8 rounded-lg bg-gradient-warm flex items-center justify-center text-white">易</div>
+            <div className="w-8 h-8 rounded-lg bg-gradient-warm flex items-center justify-center text-black">易</div>
             <span className="hidden sm:inline">SkillSwap</span>
           </Link>
 
