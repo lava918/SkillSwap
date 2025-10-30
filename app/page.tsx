@@ -94,14 +94,17 @@ export default function HomePage() {
               <div className="space-y-1 sm:space-y-2">
                 <p className="text-2xl sm:text-3xl font-bold text-primary">2.5K+</p>
                 <p className="text-xs sm:text-sm text-muted-foreground">Active Users</p>
+                <p className="text-xs sm:text-sm text-muted-foreground">(representational)</p>
               </div>
               <div className="space-y-1 sm:space-y-2">
                 <p className="text-2xl sm:text-3xl font-bold text-accent">500+</p>
                 <p className="text-xs sm:text-sm text-muted-foreground">Skill Exchanges</p>
+                <p className="text-xs sm:text-sm text-muted-foreground">(representational)</p>
               </div>
               <div className="space-y-1 sm:space-y-2">
-                <p className="text-2xl sm:text-3xl font-bold text-secondary">98%</p>
+                <p className="text-2xl sm:text-3xl font-bold text-secondary">91.3%</p>
                 <p className="text-xs sm:text-sm text-muted-foreground">Satisfaction</p>
+                <p className="text-xs sm:text-sm text-muted-foreground">(representational)</p>
               </div>
             </motion.div>
           </motion.div>
