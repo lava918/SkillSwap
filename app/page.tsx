@@ -313,7 +313,7 @@ export default function HomePage() {
             {/* Brand */}
             <div className="col-span-2 sm:col-span-1">
               <div className="flex items-center gap-2 font-bold text-lg text-primary mb-4">
-                <div className="w-8 h-8 rounded-lg bg-gradient-warm flex items-center justify-center text-white flex-shrink-0">
+                <div className="w-8 h-8 rounded-lg bg-gradient-warm flex items-center justify-center text-black flex-shrink-0">
                   易
                 </div>
                 <span className="truncate">SkillSwap</span>
